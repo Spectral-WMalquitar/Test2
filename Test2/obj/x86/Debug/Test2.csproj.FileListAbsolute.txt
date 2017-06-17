@@ -1,0 +1,7 @@
+C:\Test2\Test2\bin\Debug\Test2.exe
+C:\Test2\Test2\bin\Debug\Test2.pdb
+C:\Test2\Test2\obj\x86\Debug\Test2.Form1.resources
+C:\Test2\Test2\obj\x86\Debug\Test2.Properties.Resources.resources
+C:\Test2\Test2\obj\x86\Debug\Test2.csproj.GenerateResource.Cache
+C:\Test2\Test2\obj\x86\Debug\Test2.exe
+C:\Test2\Test2\obj\x86\Debug\Test2.pdb
